@@ -10,7 +10,7 @@ Rather than just storing data, this project focuses on **automation** and **data
 
 The system is built on a relational model that connects users, series, episodes, and actors.
 
-![Database Schema](Screenshot%20from%202025-11-17%2014-54-39.png)
+![Database Schema](https://github.com/ViKu7988/StreamSQL-TV-Database-Automation/blob/main/tv_series_schema.sql)
 
 * **Users & History:** Tracks who is watching what and for how long.
 * **Content:** Organized into Series, Seasons, and Episodes.
